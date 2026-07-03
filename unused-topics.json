@@ -1,1 +1,147 @@
-﻿[{"title":"ふるさと納税おすすめ返礼品ランキング2026","filename":"furusato-ranking-2026.json","category":"ranking"},{"title":"ふるさと納税のやり方を初心者向けに解説","filename":"furusato-howto-2026.json","category":"howto"},{"title":"楽天ふるさと納税のポイント活用法2026","filename":"rakuten-furusato-2026.json","category":"portal"},{"title":"さとふるの特徴と使い方を徹底解説","filename":"satofull-review-2026.json","category":"portal"},{"title":"ふるさとチョイスの返礼品と使い方","filename":"furusato-choice-2026.json","category":"portal"},{"title":"ふるさと納税の限度額計算と節税効果2026","filename":"furusato-limit-2026.json","category":"beginner"},{"title":"ふるさと納税のワンストップ特例とは？","filename":"one-stop-2026.json","category":"howto"},{"title":"ふるさと納税 牛肉おすすめ返礼品TOP10","filename":"furusato-beef-2026.json","category":"ranking"},{"title":"ふるさと納税 海鮮おすすめ返礼品2026","filename":"furusato-seafood-2026.json","category":"ranking"},{"title":"ふるさと納税 米・お米の返礼品比較","filename":"furusato-rice-2026.json","category":"ranking"},{"title":"ふるさと納税の確定申告のやり方","filename":"furusato-tax-return-2026.json","category":"howto"},{"title":"ふるさと納税ポータルサイト比較2026年版","filename":"portal-compare-2026.json","category":"portal"},{"title":"マイナンバーカードでふるさと納税を簡単に","filename":"mynumber-furusato-2026.json","category":"howto"},{"title":"ふるさと納税の果物おすすめ返礼品2026","filename":"furusato-fruit-2026.json","category":"ranking"},{"title":"ふるさと納税 旅行・宿泊券のおすすめ","filename":"furusato-travel-2026.json","category":"ranking"},{"title":"ふるさと納税の家電・電化製品返礼品","filename":"furusato-electronics-2026.json","category":"ranking"},{"title":"ふるさと納税 お酒・ビールのおすすめ返礼品","filename":"furusato-alcohol-2026.json","category":"ranking"},{"title":"ふるさと納税をクレジットカードで申し込む方法","filename":"furusato-creditcard-2026.json","category":"howto"},{"title":"ふるさと納税 工芸品・日用品の返礼品","filename":"furusato-craft-2026.json","category":"ranking"},{"title":"ふるさと納税サイトのポイント比較と活用法","filename":"furusato-point-2026.json","category":"portal"},{"title":"ふるさと納税で体験・アクティビティを選ぶ","filename":"furusato-experience-2026.json","category":"ranking"},{"title":"ふるさと納税の申し込みから届くまでの流れ","filename":"furusato-process-2026.json","category":"howto"},{"title":"共働き夫婦のふるさと納税活用術","filename":"couple-furusato-2026.json","category":"beginner"},{"title":"ふるさと納税の返礼品が届かない場合の対処法","filename":"furusato-delay-2026.json","category":"howto"},{"title":"ふるさと納税のおすすめ自治体2026年版","filename":"furusato-area-2026.json","category":"ranking"},{"title":"ふるさと納税とiDeCo・NISAの組み合わせ術","filename":"furusato-ideco-2026.json","category":"beginner"},{"title":"ふるさと納税で食費を節約する方法","filename":"furusato-save-food-2026.json","category":"beginner"},{"title":"ふるさと納税のキャンセル・変更方法","filename":"furusato-cancel-2026.json","category":"howto"},{"title":"ふるさと納税 冷凍食品おすすめ返礼品","filename":"furusato-frozen-2026.json","category":"ranking"},{"title":"ふるさと納税の還元率が高い返礼品まとめ","filename":"furusato-rate-2026.json","category":"ranking"}]
+[
+  {
+    "title": "ふるさと納税のやり方を初心者向けに解説",
+    "filename": "furusato-howto-2026.json",
+    "category": "howto"
+  },
+  {
+    "title": "楽天ふるさと納税のポイント活用法2026",
+    "filename": "rakuten-furusato-2026.json",
+    "category": "portal"
+  },
+  {
+    "title": "さとふるの特徴と使い方を徹底解説",
+    "filename": "satofull-review-2026.json",
+    "category": "portal"
+  },
+  {
+    "title": "ふるさとチョイスの返礼品と使い方",
+    "filename": "furusato-choice-2026.json",
+    "category": "portal"
+  },
+  {
+    "title": "ふるさと納税の限度額計算と節税効果2026",
+    "filename": "furusato-limit-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "ふるさと納税のワンストップ特例とは？",
+    "filename": "one-stop-2026.json",
+    "category": "howto"
+  },
+  {
+    "title": "ふるさと納税 牛肉おすすめ返礼品TOP10",
+    "filename": "furusato-beef-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税 海鮮おすすめ返礼品2026",
+    "filename": "furusato-seafood-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税 米・お米の返礼品比較",
+    "filename": "furusato-rice-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税の確定申告のやり方",
+    "filename": "furusato-tax-return-2026.json",
+    "category": "howto"
+  },
+  {
+    "title": "ふるさと納税ポータルサイト比較2026年版",
+    "filename": "portal-compare-2026.json",
+    "category": "portal"
+  },
+  {
+    "title": "マイナンバーカードでふるさと納税を簡単に",
+    "filename": "mynumber-furusato-2026.json",
+    "category": "howto"
+  },
+  {
+    "title": "ふるさと納税の果物おすすめ返礼品2026",
+    "filename": "furusato-fruit-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税 旅行・宿泊券のおすすめ",
+    "filename": "furusato-travel-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税の家電・電化製品返礼品",
+    "filename": "furusato-electronics-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税 お酒・ビールのおすすめ返礼品",
+    "filename": "furusato-alcohol-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税をクレジットカードで申し込む方法",
+    "filename": "furusato-creditcard-2026.json",
+    "category": "howto"
+  },
+  {
+    "title": "ふるさと納税 工芸品・日用品の返礼品",
+    "filename": "furusato-craft-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税サイトのポイント比較と活用法",
+    "filename": "furusato-point-2026.json",
+    "category": "portal"
+  },
+  {
+    "title": "ふるさと納税で体験・アクティビティを選ぶ",
+    "filename": "furusato-experience-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税の申し込みから届くまでの流れ",
+    "filename": "furusato-process-2026.json",
+    "category": "howto"
+  },
+  {
+    "title": "共働き夫婦のふるさと納税活用術",
+    "filename": "couple-furusato-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "ふるさと納税の返礼品が届かない場合の対処法",
+    "filename": "furusato-delay-2026.json",
+    "category": "howto"
+  },
+  {
+    "title": "ふるさと納税のおすすめ自治体2026年版",
+    "filename": "furusato-area-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税とiDeCo・NISAの組み合わせ術",
+    "filename": "furusato-ideco-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "ふるさと納税で食費を節約する方法",
+    "filename": "furusato-save-food-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "ふるさと納税のキャンセル・変更方法",
+    "filename": "furusato-cancel-2026.json",
+    "category": "howto"
+  },
+  {
+    "title": "ふるさと納税 冷凍食品おすすめ返礼品",
+    "filename": "furusato-frozen-2026.json",
+    "category": "ranking"
+  },
+  {
+    "title": "ふるさと納税の還元率が高い返礼品まとめ",
+    "filename": "furusato-rate-2026.json",
+    "category": "ranking"
+  }
+]
