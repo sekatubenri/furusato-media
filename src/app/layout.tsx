@@ -3,6 +3,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: { default: 'ふるさと納税ナビ | 返礼品・やり方・比較サイト', template: '%s | ふるさと納税ナビ' },
   description: 'ふるさと納税の返礼品ランキング・やり方・おすすめポータルサイトを比較。節税しながらお得な返礼品をゲット。',
+  verification: { google: 'XcyMImXtiMlMj5NBeiKQBcD_Vqrw3EDW0TDFBVTAtaA' },
 }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
