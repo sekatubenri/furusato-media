@@ -11,6 +11,7 @@ const AFFILIATE_TOP = `
     <li><a href="https://px.a8.net/svt/ejp?a8mat=FURUSATO_PLACEHOLDER_1" rel="nofollow" style="display:inline-block;background:#16a34a;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ ふるさとチョイス（最大手）</a></li>
     <li><a href="https://px.a8.net/svt/ejp?a8mat=FURUSATO_PLACEHOLDER_2" rel="nofollow" style="display:inline-block;background:#15803d;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">▶ 楽天ふるさと納税（ポイント還元あり）</a></li>
     <li><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3775267&pid=892655293" rel="nofollow" style="display:inline-block;background:#f59e0b;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">▶ ふるさと納税サイト【ふるさと本舗】</a><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3775267&pid=892655293" height="1" width="1" border="0" alt=""></li>
+    <li><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3775267&pid=892655296" rel="nofollow" style="display:inline-block;background:#16a34a;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">▶ 初めての方に優しいふるさと納税サイト【ふるラボ】</a><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3775267&pid=892655296" height="1" width="1" border="0" alt=""></li>
   </ul>
 </div>`;
 const AFFILIATE_BOTTOM = `
